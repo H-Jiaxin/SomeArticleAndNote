@@ -1,7 +1,8 @@
 <center> vim使用方法</center>  
 [TOC]
-  
-## 1. 文件操作  
+
+## 1. 文件操作
+
     * 输入命令':open [new_file]'在当前窗口打开新文件  
     * :open! 放弃当前修改重新打开  
     * :open file 推出当前文件并且打开file文件
